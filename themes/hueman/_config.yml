@@ -11,7 +11,7 @@ customize:
         width: 150
         height: 105
         url: css/images/marsir-chiller.png
-    theme_color: '#99ff99'
+    theme_color: '#006bde'
     highlight: atelier-cave-light
     sidebar: left # sidebar position, options: left, right
     thumbnail: true # enable posts thumbnail, options: true, false
