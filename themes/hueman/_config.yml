@@ -8,9 +8,9 @@ menu:
 # Customize
 customize:
     logo:
-        width: 150
-        height: 105
-        url: css/images/marsir-chiller.png
+        width: 135
+        height: 60
+        url: images/marsir-chiller.png
     theme_color: '#006bde'
     highlight: atelier-cave-light
     sidebar: left # sidebar position, options: left, right
