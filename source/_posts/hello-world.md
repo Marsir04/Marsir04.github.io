@@ -5,7 +5,7 @@ categories:
 thumbnail: css/images/pixiv/58825498.jpg
 ---
 
-![](/themes/hueman/source/css/images/pixiv/58825498.jpg)
+![](https://i.loli.net/2021/05/28/G1x7OXcVroKUwk3.jpg)
 
 # Hello World!
 
