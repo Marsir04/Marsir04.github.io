@@ -10,7 +10,7 @@ customize:
     logo:
         width: 480
         height: 60
-        url: image/marsir-header.png
+        url: images/marsir-header.png
     theme_color: '#006bde'
     highlight: atelier-cave-light
     sidebar: left # sidebar position, options: left, right
