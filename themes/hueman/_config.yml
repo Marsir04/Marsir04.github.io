@@ -8,7 +8,7 @@ menu:
 # Customize
 customize:
     logo:
-        width: 135
+        width: 165
         height: 60
         url: images/marsir-chiller.png
     theme_color: '#006bde'
