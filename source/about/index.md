@@ -36,8 +36,6 @@ QQ：2719765955
 + Hueman主题只能使用[FontAwesome](https://fontawesome.com/)的icon，而此网站缺少**bilibili**和**CSDN**的图标，因此我把这两个链接和友链一起放在侧边栏的**链接**一栏里了TAT
 + 评论Comment功能暂未实现OTZ
 + 搜索Search时关键字暂时无法实现高亮，~~但反正刚开始也没发几篇文章，用不上搜索hiahia！~~
-+ 缩略图在主页以外的地方无法显示
-+ 副标题无法显示
 
 **特别感谢[Uranus](http://shavi.team/uranusblog/)在我的博客搭建中不遗余力地提供知识援助！%%爷爷！**
 
