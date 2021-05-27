@@ -3,12 +3,12 @@ menu:
     Home: https://marsir04.github.io/
     # Delete this row if you don't want categories in your header nav bar
     Categories:
-    About: /about/index.html
+    About: /about/index.md
 
 # Customize
 customize:
     logo:
-        width: 165
+        width: 270
         height: 60
         url: images/marsir-chiller.png
     theme_color: '#006bde'
@@ -19,6 +19,7 @@ customize:
     social_links: # for more icons, please see http://fontawesome.io/icons/#brand
         twitter: https://twitter.com/Marsir04
         youtube: https://www.youtube.com/channel/UCqKtCVkzOK1grJWx2Zx4cww
+        copyright: https://blog.csdn.net/Marsir04
         bold: https://space.bilibili.com/29588040
         github: https://github.com/Marsir04
         weibo: https://weibo.com/marsir04

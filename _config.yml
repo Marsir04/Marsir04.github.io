@@ -4,7 +4,7 @@
 
 # Site
 title: Marsir's blog
-subtitle: 'Welcome and have fun!'
+subtitle: 向来心是看客心，奈何人是剧中人。
 description: ''
 keywords:
 author: Marsir
@@ -41,7 +41,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
