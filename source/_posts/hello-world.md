@@ -4,6 +4,9 @@ categories:
 - General
 thumbnail: css/images/pixiv/58825498.jpg
 ---
+
+![](css/images/pixiv/58825498.jpg)
+
 # Hello World!
 
 基于[Hexo](https://github.com/hexojs/hexo)，采用主题[hueman](https://github.com/ppoffice/hexo-theme-hueman)，本博客已发布到GitHub Pages！（撒花！

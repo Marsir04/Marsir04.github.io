@@ -3,14 +3,14 @@ menu:
     Home: https://marsir04.github.io/
     # Delete this row if you don't want categories in your header nav bar
     Categories:
-    About: /about/
+    About: https://marsir04.github.io/about/
 
 # Customize
 customize:
     logo:
-        width: 270
+        width: 480
         height: 60
-        url: images/marsir-chiller.png
+        url: image/marsir-header.png
     theme_color: '#006bde'
     highlight: atelier-cave-light
     sidebar: left # sidebar position, options: left, right
@@ -19,8 +19,6 @@ customize:
     social_links: # for more icons, please see http://fontawesome.io/icons/#brand
         twitter: https://twitter.com/Marsir04
         youtube: https://www.youtube.com/channel/UCqKtCVkzOK1grJWx2Zx4cww
-        copyright: https://blog.csdn.net/Marsir04
-        bold: https://space.bilibili.com/29588040
         github: https://github.com/Marsir04
         weibo: https://weibo.com/marsir04
 
@@ -30,7 +28,6 @@ widgets:
     - recent_posts
     - category
     - archive
-    - tag
     - tagcloud
     - links
 #    - google_adsense
@@ -120,6 +117,8 @@ miscellaneous:
         fb_admins:
         twitter_id:
     links:
+        my Bilibili: https://space.bilibili.com/29588040
+        my CSDN: https://blog.csdn.net/Marsir04
         Uranus: http://shavi.team/uranusblog/
         Takumi: https://takumikun-codw.github.io/
 
