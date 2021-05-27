@@ -2,10 +2,10 @@
 title: Hello World
 categories:
 - General
-thumbnail: {% asset_image 58825498.jpg %}
+thumbnail: css/images/pixiv/58825498.jpg
 ---
 
-{% asset_image 58825498.jpg %}
+![](https://i.loli.net/2021/05/28/G1x7OXcVroKUwk3.jpg)
 
 # Hello World!
 
@@ -15,7 +15,7 @@ thumbnail: {% asset_image 58825498.jpg %}
 
 哈喽大家好！这里是Marsir~
 
-{% asset_image profile.jpg 哈喽哈喽QWQ}
+![哈喽哈喽QWQ](https://i.loli.net/2021/05/27/JQbYC1lURSdk4Zt.jpg)
 
 很高兴你能到访我的博客！希望这里能给你带来快乐，要是能给你涨涨姿势就再好不过啦qwq！
 
