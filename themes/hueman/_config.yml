@@ -3,7 +3,7 @@ menu:
     Home: https://marsir04.github.io/
     # Delete this row if you don't want categories in your header nav bar
     Categories:
-    About: /about/index.md
+    About: /about/
 
 # Customize
 customize:

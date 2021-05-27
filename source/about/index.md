@@ -1,5 +1,5 @@
 ---
-title: about
+title: About
 date: 2021-05-27 19:11:44
 ---
 # About Me

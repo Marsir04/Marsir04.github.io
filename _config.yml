@@ -4,12 +4,12 @@
 
 # Site
 title: Marsir's blog
-subtitle: Stay Hungry Stay Foolish
-description: ''
+subtitle: Inspire and empower.
+description: 
 keywords:
 author: Marsir
 language: zh-CN
-timezone: 'Asia/Shanghai'
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
