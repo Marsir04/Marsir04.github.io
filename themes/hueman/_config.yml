@@ -8,8 +8,8 @@ menu:
 # Customize
 customize:
     logo:
-        width: 480
-        height: 60
+        width: 360
+        height: 45
         url: images/marsir-header.png
     theme_color: '#006bde'
     highlight: atelier-cave-light

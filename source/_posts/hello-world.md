@@ -5,7 +5,7 @@ categories:
 thumbnail: css/images/pixiv/58825498.jpg
 ---
 
-![](css/images/pixiv/58825498.jpg)
+![](/themes/hueman/source/css/images/pixiv/58825498.jpg)
 
 # Hello World!
 
